@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <body>
-<h1>BUYSELL</h1>
+<h1><a href="/" style="text-decoration: none">BUYSELL</a></h1>
 <hr>
 <h4>Подробная информация о товаре</h4>
 <b>Название товара: </b>${product.title}<br>
